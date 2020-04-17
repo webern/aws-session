@@ -1,4 +1,4 @@
-module aws-session
+module github.com/webern/awssession
 
 go 1.14
 

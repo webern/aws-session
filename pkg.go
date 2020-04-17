@@ -1,6 +1,6 @@
 // Package aws_session provides a few small functions for creating an AWS SDK Session object. I find these hard to
 // remember if it's been a while, so I created this small package.
-package aws_session
+package awssession
 
 import (
 	"fmt"
